@@ -1,0 +1,10 @@
+# local package
+-e .
+
+pandas
+matplotlib
+seaborn
+pytz
+requests
+jupyter
+pytz
